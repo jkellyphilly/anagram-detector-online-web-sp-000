@@ -7,7 +7,10 @@ class Anagram
   end
 
   # match method will take in an array of strings
-  def match
+  def match(word_array)
+    word_array.each do |word|
+
+    end
     # returns true/false
   end
 end
