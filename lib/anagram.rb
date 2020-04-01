@@ -12,6 +12,6 @@ class Anagram
     word_array.each do |word|
       puts "Hello"
     end
-    result
+    results
   end
 end
