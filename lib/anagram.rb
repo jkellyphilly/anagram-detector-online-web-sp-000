@@ -10,7 +10,7 @@ class Anagram
   def match(word_array)
     result = false
     word_array.each do |word|
-
+      puts "Hello"
     end
     result
   end
